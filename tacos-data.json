@@ -1,0 +1,32 @@
+[
+  {
+    "tacoId": 1,
+    "nombre": "Taco de Pastor",
+    "precio": 15.0
+  },
+  {
+    "tacoId": 2,
+    "nombre": "Taco de Suadero",
+    "precio": 17.0
+  },
+  {
+    "nombre": "Taco de Tripa",
+    "tacoId": 3,
+    "precio": 12.0
+  },
+  {
+    "nombre": "Taco de Sesos",
+    "tacoId": 5,
+    "precio": 44.0
+  },
+  {
+    "nombre": "Taco de Longaniza",
+    "tacoId": 4,
+    "precio": 14.0
+  },
+  {
+    "nombre": "Taco de Aguacate",
+    "tacoId": 6,
+    "precio": 10.0
+  }
+]
